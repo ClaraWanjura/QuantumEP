@@ -4,6 +4,7 @@ Code for the work presented in "Quantum Equilibrium Propagation for efficient tr
 
 Quantum Equilibrium Propagation represents a new method for performing efficient training of quantum systems with many tuneable parameters, e.g. quantum simulators. Onsager reciprocity allows to replace many linear response experiments that would be needed to obtain the training gradients by a single linear response experiment. The classical version of equilibrium propagation already has been the most intensively studied physics-based training method for neuromorphic systems for a while, since its introduction in 2017 (Scellier and Bengio). This here is the quantum version.
 
+![image](https://github.com/ClaraWanjura/QuantumEP/assets/66438106/b2969f0f-7445-48bf-bdd9-850551c9ab60)
 
 
 See: https://arxiv.org/abs/2406.06482
