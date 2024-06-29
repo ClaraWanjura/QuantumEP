@@ -10,3 +10,14 @@ Quantum Equilibrium Propagation represents a new method for performing efficient
 See: https://arxiv.org/abs/2406.06482
 
 Please cite as: C. Wanjura and F. Marquardt, Quantum Equilibrium Propagation for efficient training of quantum systems based on Onsager reciprocity, arXiv:2406.06482 (2024).
+
+```
+@article{wanjura2024QEP,
+  title={Quantum Equilibrium Propagation for efficient training of quantum systems based on Onsager reciprocity},
+  author={Wanjura, C C and Marquardt, F},
+  journal={arXiv preprint arXiv:2406.06482},
+  year={2024},
+  doi = {arXiv:2406.06482},
+  url = {https://arxiv.org/abs/2406.06482}
+}
+```
