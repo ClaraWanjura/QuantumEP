@@ -14,7 +14,7 @@ Please cite as: C. C. Wanjura and F. Marquardt, Quantum Equilibrium Propagation 
 ```
 @article{wanjura2024QEP,
   title={Quantum Equilibrium Propagation for efficient training of quantum systems based on Onsager reciprocity},
-  author={Wanjura, C C and Marquardt, F},
+  author={Wanjura, Clara C and Marquardt, Florian},
   journal={arXiv preprint arXiv:2406.06482},
   year={2024},
   doi = {arXiv:2406.06482},
