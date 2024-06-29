@@ -1,4 +1,4 @@
-## Unsupervised QEP
+# Unsupervised QEP
 
 Here, we apply QEP to tasks that are not supervised, such as maximizing certain
 expectation values to explore a phase diagram or maximizing the slope of an expectation
