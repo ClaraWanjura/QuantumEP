@@ -7,11 +7,11 @@ according to the formulas given in the appendix of the preprint https://arxiv.or
 
 $\partial_{g_X^{(1)}}\mathcal{L}
 = \varepsilon \, \frac{\partial_{g_X^{(1)}}\langle \hat X_0 \hat X_4 \rangle\rvert_{g_X^{(1)}}}
-{\lvert g_X^{(1)} - g_X^{(2)}\rvert} + \mathrm{sgn}\,(g_X^{(1)} - g_X^{(2)}) \frac{\mathcal{L}}{\lvert g_X^{(1)} - g_X^{(2)}\rvert}$
+{\lvert g_X^{(1)} - g_X^{(2)}\rvert} + \mathrm{sgn} (g_X^{(1)} - g_X^{(2)}) \frac{\mathcal{L}}{\lvert g_X^{(1)} - g_X^{(2)}\rvert}$
 
 $\partial_{g_X^{(2)}}\mathcal{L}
 = - \varepsilon \, \frac{\partial_{g_X^{(2)}}\langle \hat X_0 \hat X_4 \rangle\rvert_{g_X^{(2)}}}
-{\lvert g_X^{(1)} - g_X^{(2)}\rvert} - \mathrm{sgn}\,(g_X^{(1)} - g_X^{(2)}) \frac{\mathcal{L}}{\lvert g_X^{(1)} - g_X^{(2)}\rvert}$
+{\lvert g_X^{(1)} - g_X^{(2)}\rvert} - \mathrm{sgn} (g_X^{(1)} - g_X^{(2)}) \frac{\mathcal{L}}{\lvert g_X^{(1)} - g_X^{(2)}\rvert}$
 
 $\partial_{g_{ZZ}}\mathcal{L}
 = \varepsilon \, \partial_{g_{ZZ}}
