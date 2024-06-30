@@ -18,4 +18,6 @@ $\partial_{g_{ZZ}}\mathcal{L}
 \frac{\left(\langle \hat X_0 \hat X_4 \rangle\rvert_{g_X^{(1)}} - \langle \hat X_0 \hat X_4 \rangle\rvert_{g_X^{(2)}}\right)}
 {\lvert g_X^{(1)} - g_X^{(2)}\rvert}$
 
+with $\mathcal{L}$ the loss function and $\varepsilon\equiv \mathrm{sgn}(\langle \hat X_0 \hat X_4\rangle \vert_{g_X^{(1)}} - \langle \hat X_0 \hat X_4\rangle \vert_{g_X^{(2)}})$
+
 Required packages: numpy, scipy (sparse matrices), matplotlib (plotting).
