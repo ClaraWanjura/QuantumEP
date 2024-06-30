@@ -20,4 +20,6 @@ $\partial_{g_{ZZ}}\mathcal{L}
 
 with $\mathcal{L}$ the loss function and the error signal $\varepsilon\equiv \mathrm{sgn}(\langle \hat X_0 \hat X_4\rangle \vert_{g_X^{(1)}} - \langle \hat X_0 \hat X_4\rangle \vert_{g_X^{(2)}})$.
 
+'magneticFiledSensor.ipynb' is the Jupyter notebook for the optimization task; the folders 'run1' and 'run2' contain the results (data files and plots).
+
 Required packages: numpy, scipy (sparse matrices), matplotlib (plotting).
