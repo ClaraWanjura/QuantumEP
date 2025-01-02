@@ -1,7 +1,8 @@
 # Cluster Ising model phase recognition via QEP: Revised Manuscript version with soft coupling cutoff
 
 The notebook PhaseSensorFigures.ipynb in this folder produces all the figures regarding cluster Ising model phase recognition
-in the revised manuscript, both for the main text and the supplementary material. The only exception is the
+in the revised manuscript, both for the main text and the supplementary material. The revision concerns an introduction
+of a soft cutoff for the system-sensor coupling, such that the sensor does not perturb the system appreciably. The only exception is the
 analysis of gradient vs shot noise and nudge strength, which is unchanged, and for which the figures
 can be found in the upper-level folder (SupervisedQEP) in the QEP_notebook.
 
