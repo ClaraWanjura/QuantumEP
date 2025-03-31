@@ -21,3 +21,10 @@ Please cite as: C. C. Wanjura and F. Marquardt, Quantum Equilibrium Propagation 
   url = {https://arxiv.org/abs/2406.06482}
 }
 ```
+
+Required packages:
+Tested with Python 3.11.7;
+required packages: numpy (tested with 1.26.2), scipy (tested with 1.11.4), matplotlib (tested with 3.10.0), tqdm (tested with 4.66.4), optax (tested with 0.2.2)
+
+Run instructions:
+The Jupyter notebooks can be run using typical code editors such as Visual Studio Code. The python code can be run from the command line. Detailed instructions are included in the README file in the designated subfolder.
