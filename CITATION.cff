@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Wanjura
+    given-names: Clara C.
+    orcid: https://orcid.org/0000-0001-5322-2430
+  - family-names: Marquardt
+    given-names: Florian
+    orcid: https://orcid.org/0000-0003-4566-1753
+title: "QuantumEP"
+version: 2.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15741281
+date-released: 2025-06-25
